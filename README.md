@@ -1,4 +1,6 @@
-Computational Thinking & Programming Algorithms
+# Computational Thinking & Programming Algorithms
+
+
 A collection of Go (Golang) implementations of the six exercises from
 the Asynchronous Assignment: Iterative (FOR Loop) & Recursive Control
 Flow with IF-ELSE.
